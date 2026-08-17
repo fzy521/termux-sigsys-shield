@@ -1,0 +1,14 @@
+# local debug artifacts
+*.log
+output*.txt
+*.bak
+*.bak-*
+*.bak434
+
+# private write-ups, kept locally but not published
+docs/
+archive/
+
+# misc
+.DS_Store
+__pycache__/
